@@ -1,0 +1,22 @@
+values :
+0 -> UserID
+1 -> book amount
+2 -> book 1 ID
+3 -> book 1 stars
+4 -> book 1 text
+5 -> book 2 ID
+6 -> book 2 stars
+7 -> book 2 text
+8 -> book 3 ID
+9 -> book 3 stars
+10 -> book 3 text
+11 -> book 4 ID
+12 -> book 4 stars
+13 -> book 4 text
+14 -> book 5 ID
+15 -> book 5 stars
+16 -> book 5 text
+17 -> book 6 ID
+18 -> book 6 stars
+19 -> book 6 text
+
